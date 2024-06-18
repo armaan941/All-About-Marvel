@@ -50,7 +50,7 @@ main{
 }
 
 .home-page{
-    background-image: url(/marvel-page/images/home-bg.jpg);
+    background-image: url(/images/home-bg.jpg);
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -95,7 +95,7 @@ main{
 }
 
 .iron-man-bg{
-    background-image: url('/marvel-page/images/iron-man-bg.png');
+    background-image: url('/images/iron-man-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -118,7 +118,7 @@ main{
 }
 
 .captain-bg{
-    background-image: url('/marvel-page/images/captain.jpg');
+    background-image: url('/images/captain.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -135,7 +135,7 @@ main{
 }
 
 .thor-bg{
-    background-image: url('/marvel-page/images/thor.jpg');
+    background-image: url('/images/thor.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -168,7 +168,7 @@ main{
 }
 
 .spider-man-bg{
-    background-image: url('/marvel-page/images/spider-man.jpg');
+    background-image: url('/images/spider-man.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
